@@ -23,6 +23,7 @@
         - primaryKey
 
 # Build VS Code project
+- install Docker for Windows from [here](https://docs.docker.com/docker-for-windows/install/)
 - launch VS Code
 - File -> Open Folder -> (select project directory)
 - "Reopen in container"
