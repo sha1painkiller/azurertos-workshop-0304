@@ -35,7 +35,7 @@
 - Select **Build** on the bottom status bar to build the device code
 
 # View device properties on IoT Hub
-- install Azure IoT Explore from [here](https://docs.microsoft.com/en-us/azure/iot-pnp/howto-use-iot-explorer#install-azure-iot-explorer)
+- install Azure IoT Explore from (?)
 - Launch Azure IoT Explore
 - IoT Hub -> Add Connection
 - from Azure CLI command
