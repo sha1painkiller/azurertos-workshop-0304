@@ -4,7 +4,7 @@
     - install VS code on local PC
     - install extensions : CMake / CMake Tools / Remote Containers
 ## Azure RTOS source package
-- Download Azure RTOS simulator from (?)
+- Download Azure RTOS simulator from [here](https://blgenericblob.blob.core.windows.net/whatiscontainer/azurertos-x86-cmake.zip?sp=r&st=2021-03-04T01:59:53Z&se=2021-03-04T09:59:53Z&spr=https&sv=2020-02-10&sr=b&sig=B7CwoSdesL%2FtP7WugDNEve1h4vl85zP7vjjecMV%2Bdqo%3D)
 - Create a working directory and unzip the source package to the directory
 
 # Set up Azure IoT Hub
